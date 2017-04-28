@@ -1,5 +1,5 @@
 # R-Seminar-Assign-Topics
-A simple script to fairly assign topics and dates to students in a seminar
+A simple R script to fairly assign topics and dates to students in a seminar
 
 # Purpose
 This script is originally used to assign dates and topics for a seminar in which students have to hold a presentation about some topic at some date, and topics are not linked to dates. 
